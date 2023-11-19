@@ -13,6 +13,7 @@ Programmer and tech enthusiast! Embedded
 ## Technologies, Stacks and Languages
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
