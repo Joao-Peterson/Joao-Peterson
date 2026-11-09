@@ -1,5 +1,5 @@
 # Peterson Scheffer
-Programmer and tech enthusiast! Embedded 
+Programmer and tech enthusiast!
 <div>
   <a href="https://github.com/Joao-Peterson">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Joao-Peterson&theme=dark&show_icons=true&include_all_comits=true&count_private=true"/>
